@@ -1,0 +1,14 @@
+Training:
+https://www.hyperledger.org/community/basics
+https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309
+https://www.edureka.co/blockchain-training
+https://www.udemy.com/courses/search/?src=ukw&q=blockchain
+https://news.coinify.com/8-professional-blockchain-certifications/
+https://blockchaintrainingalliance.com/collections/all-courses/products/blockchain-architecture-training-online#course-outline
+https://academy.b9lab.com/courses/course-v1:B9lab+ETH-29+2018-10/about
+http://www.destinationdev.com/blockchain/
+
+General:
+Here are just a few of the practical examples of blockchain technology. in Entertainment (‌KickCity—B2Expand ) in Retail (Warranteer—Blockpoint ) and finally in the Charity (BitGive -AidCoin)
+
+Udacity Notes:
